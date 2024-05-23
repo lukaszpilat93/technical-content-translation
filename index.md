@@ -18,7 +18,7 @@ Please note that this manual is **NOT** meant to be always up to date. Your coll
 
 
 - **Email**: [lukaszpilat2@gmail.com](mailto:lukaszpilat2@gmail.com)
-- **LinkedIn** <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 30px; height: 30px;">
+- **Reach me on** <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" style="width: 30px; height: 30px;">
 : [LinkedIn](https://www.linkedin.com/in/%C5%82ukasz-pilat-567885129/)
 
 ---
