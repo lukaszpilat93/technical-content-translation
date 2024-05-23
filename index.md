@@ -17,8 +17,7 @@ Please note that this manual is **NOT** meant to be always up to date. Your coll
 ### Contact Information
 
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Email-open.svg" alt="@" style="width: 16px; height: 16px;">
-**Email**: [lukaszpilat2@gmail.com](mailto:lukaszpilat2@gmail.com)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Email-open.svg" alt="@" style="width: 16px; height: 16px;">**Email**: [lukaszpilat2@gmail.com](mailto:lukaszpilat2@gmail.com)
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/%C5%82ukasz-pilat-567885129/)
 
 ---
