@@ -51,6 +51,10 @@ and continue with all of them, checking all the segments (content + grammar). Tr
 
 While it is fairly easy to handle the 100% matches and repetitions, things go a bit complicated when you see a fuzzy match. In such a case, Trados suggests a translation along with a percentage that shows the level of similarity to the stored version. Begin by reviewing the suggested translation and the source segment to understand the context.
 
+Study the following example:
+
+![fuzzy](fuzzy.jpg)
+
 Compare Source and Target: Compare the source segment with the suggested translation to identify any differences. Pay attention to variations in punctuation, terminology, word order, and context.
 
 Depending on the similarity and the context, you may need to edit the suggested translation. Sometimes the changes may be just minor, so please be careful.
