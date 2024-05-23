@@ -17,7 +17,7 @@ Please note that this manual is **NOT** meant to be always up to date. Your coll
 ### Contact Information
 
 
-- **Email**: [lukaszpilat2@gmail.com](mailto:lukaszpilat2@gmail.com)
+- \@**Email**: [lukaszpilat2@gmail.com](mailto:lukaszpilat2@gmail.com)
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/%C5%82ukasz-pilat-567885129/)
 
 ---
