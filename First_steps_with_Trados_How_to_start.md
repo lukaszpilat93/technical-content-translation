@@ -2,7 +2,7 @@
 
 title: First steps with Trados - how to start
 layout: default
-nav_order: 4
+nav_order: 3
 
 ---
 FIRST STEPS WITH TRADOS - HOW TO START
