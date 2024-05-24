@@ -7,9 +7,18 @@ nav_order: 8
 ---
 FURTHER READING + FURTHER REFERENCES
 ===============
-Even though you have certainly acquired some valuable knowledge about the Polish language style and grammar during your studies, there is always some room for improvement. 
+Even though you have some valuable knowledge about the Polish language and know the basics of Trados, there is always some room for improvement. 
 
-In case you encounter any issues or doubts that need to be consulted in some reliable resources, here is a short overview of further references that may deem to be helpful:
+This chapter is meant to give you some hints about:
+
+- linguistic and technical resources
+- style guides you should read and follow
+
+<h6></h6>
+
+**LINGUISTIC AND TECHNICAL RESOURCES**
+
+If you see any issues or have some doubts, here is a short overview of further references that may be helpful:
 
 1. **"Poradnia językowa PWN"**:
    [Link](https://sjp.pwn.pl/poradnia/)
@@ -20,14 +29,23 @@ In case you encounter any issues or doubts that need to be consulted in some rel
 3. **"Poradnia Językowa Uniwersytetu Jagiellońskiego"**:
 [Link](http://www.poradniajezykowa.ujd.edu.pl/)
 
-Another thing are **style guides**. Maintaining a consistent brand voice and identity across languages is essential for building trust and recognition among customers or stakeholders. Style guides provided by our client help us adhere to 
-brand-specific guidelines, ensuring that the translated content aligns with the brand's tone and messaging.
+4. **Localization.pl portal**:
+[Link](https://localization.pl/)
 
-The requirements may, however, vary, depending on the division you are translating for. Please check the following documents:
+5. **Trados webhelp portal**:
+[Link](https://www.trados.com/)
+
+<h6></h6>
+
+**STYLE GUIDES**
+
+Another thing are **style guides**. A consistent brand voice and identity across languages is essential for building trust and recognition among customers or stakeholders. These documents help us adhere to brand-specific guidelines and will make reading the technical texts easier.
 
 General Mercedes-Benz tone of voice guidelines: [Brand Standards PDF](https://static1.squarespace.com/static/50749503e4b0fa0ffd4b65f5/t/56142bd2e4b0e26258e39c6c/1444162514216/BrandStandards_08.20.15.pdf)
 
-[Mercedes-Benz Guidelines - Brand Communications](https://www.scribd.com/doc/299303269/Mercedes-Benz-Guidelines-Brand-Communications)
+Style guides designed for ARKI files (also see: [File types what can you expect](File types_what_can_you_expect.md) [Mercedes-Benz Guidelines - Brand Communications](https://www.scribd.com/doc/299303269/Mercedes-Benz-Guidelines-Brand-Communications)
+
+
 
 
 
