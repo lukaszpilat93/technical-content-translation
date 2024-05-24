@@ -9,7 +9,7 @@ nav_order: 9
 Since working with Trados may seem challenging at the first glance, you may need to have some terms explained. That's where our
 short glossary comes in handy. As this page can be edited if needed, please feel free to add any terms to help yourself and future users.
 
-Credits: special thanks go to Agenor Hofmann-Delbor, Ewa Dacko, Marta Bartnicka, the authors of localization.pl portal. The terms were chosen
+Credits: special thanks go to Agenor Hofmann-Delbor, Ewa Dacko, Marta Bartnicka, the authors of [localization.pl](http://www.localization.pl) portal. The terms were chosen
 on the basis of their webpage.
 
 
