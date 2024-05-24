@@ -43,7 +43,8 @@ Another thing are **style guides**. A consistent brand voice and identity across
 
 General Mercedes-Benz tone of voice guidelines: [Brand Standards PDF](https://static1.squarespace.com/static/50749503e4b0fa0ffd4b65f5/t/56142bd2e4b0e26258e39c6c/1444162514216/BrandStandards_08.20.15.pdf)
 
-Style guides designed for ARKI files (also see: [File types what can you expect](File_types_what_can_you_expect.md) [Mercedes-Benz Guidelines - Brand Communications](https://www.scribd.com/doc/299303269/Mercedes-Benz-Guidelines-Brand-Communications)
+Style guides designed for ARKI files (also see: [File types what can you expect](File_types_what_can_you_expect.md)
+[Mercedes-Benz Guidelines - Brand Communications](https://www.scribd.com/doc/299303269/Mercedes-Benz-Guidelines-Brand-Communications)
 
 
 
