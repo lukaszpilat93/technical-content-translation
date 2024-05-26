@@ -1,6 +1,10 @@
-title: test
+---
+
+title: Test
 layout: default
 nav_order: 10
+
+---
  
  Nikt nie jest doskonały. Nikt nie wie wszystkiego.
 Specjalista od wszystkiego to specjalista od niczego. Założę się, że nie chcesz być tak postrzegany. Specjalizacja w konkretnej, nawet bardzo precyzyjnie zdefiniowanej dziedzinie wiedzy specjalistycznej jest czymś innym niż zwykła i akceptowalna wiedza we współczesnym świecie biznesu.
