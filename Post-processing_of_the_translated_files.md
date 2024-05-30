@@ -49,3 +49,4 @@ This workflow is a bit easier for you as you are responsible for the "translatio
 **TRANSLATION+EDITING+PROOFREADING**
 
 Please see above. The files will be forward to the proofreader by the editor. No need to do anything on your side!
+<!-- Does this mean "nothing to do after QA" or "do the same as for TRANSLATION+EDITING? -->
