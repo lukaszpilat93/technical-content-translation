@@ -25,7 +25,7 @@ you must know the core differences between the two types you are likely to handl
 </div>
 Please also note that in the Nars files, you will find some specific codes that indicate a special workflow.
 
-Whenever you see an *AP00 file*, please **do not** follow the normal structure for orders, such as e.g. Dokręć śrubę, but use the **infinitive form**, instead (in this case "Dokręcenie śruby"). This is especially important as these files are parts of the so-called service sheets, i.e. lists of actions, rather than simple instructions. To proceed properly, always consult the source files you can find in the project reference material folder on the F:// drive. 
+Whenever you see an **AP00 file**, please do not follow the normal structure for orders, such as *Dokręć śrubę*, but use the **infinitive form** instead - in this case, "Dokręcenie śruby". This is especially important as these files are parts of the so-called service sheets, i.e. lists of actions, rather than simple instructions. To proceed properly, always consult the source files you can find in the project reference material folder on the F:// drive. 
 
 **SPECIFIC HINTS FOR ARKI FILES**
 
@@ -34,7 +34,7 @@ These files have a very tight time-to-market schedule!
 
 **GENERAL STYLE & GRAMMAR CONSIDERATIONS**
 
-Irrespective of the file type, please bear in mind that you are need provide meticulous, error-free translation as it is a vital part of the brand's image. In case of doubts, never guess the correct workflow. Instead, please DO CONSULT the widely known references. To find out more, please visit [Further reading + references](Further_reading_and_references.md).
+Irrespective of the file type, please bear in mind that you are need provide meticulous, error-free translation as it is a vital part of the brand's image. In case of doubts, never guess the correct workflow. Instead, please DO CONSULT the widely known references. To find out more, please visit [Further reading + references](Further_reading_and_references.html).
 
 
 
